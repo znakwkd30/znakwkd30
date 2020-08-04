@@ -1,6 +1,18 @@
-### Hi there 👋
----
-***
+# Hyeon-Jun (곽현준)
+
+## 🛠 Skills
+
+- Backend Engineering
+
+- Frontend Engineering
+
+## 📚 Studying...
+
+- TypeScript
+- Redux
+- Redux Observable
+
+## ✉️ Contact Me
 
 - 📫 E-mail: gwakhyeonjun@gmail.com
 
