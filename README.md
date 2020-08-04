@@ -3,7 +3,6 @@
 ## 🛠 Skills
 
 - Backend Engineering
-
 - Frontend Engineering
 
 ## 📚 Studying...
