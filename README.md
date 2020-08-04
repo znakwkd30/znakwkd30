@@ -17,4 +17,4 @@
 
 ## Github Stats
 
-[![HyeonJun's github stats](https://github-readme-stats.vercel.app/api?username=znakwkd30)](https://github.com/anuraghazra/github-readme-stats)
+[![HyeonJun's github stats](https://github-readme-stats.vercel.app/api?username=znakwkd30&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
