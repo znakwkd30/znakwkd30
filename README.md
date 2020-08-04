@@ -2,8 +2,8 @@
 
 ## 🛠 Skills
 
-- Backend Engineering
-- Frontend Engineering
+- Backend (Node.js)
+- Frontend (React)
 
 ## 📚 Studying...
 
