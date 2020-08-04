@@ -1,5 +1,5 @@
 ### Hi there 👋
-</br>
+---
 
 - 📫 E-mail: gwakhyeonjun@gmail.com
 
