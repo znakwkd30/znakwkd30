@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 이메일: gwakhyeonjun@gmail.com
+- 📫 E-mail: gwakhyeonjun@gmail.com
 
 [![HyeonJun's github stats](https://github-readme-stats.vercel.app/api?username=znakwkd30)](https://github.com/anuraghazra/github-readme-stats)
 <!--
