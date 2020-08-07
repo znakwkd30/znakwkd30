@@ -10,6 +10,7 @@
 - TypeScript
 - Redux
 - Redux Observable
+- RxJS
 
 ## ✉️ Contact Me
 
