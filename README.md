@@ -19,7 +19,3 @@
 ## Github Stats
 
 [![HyeonJun's github stats](https://github-readme-stats.vercel.app/api?username=znakwkd30&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## Top Langs
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znakwkd30&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
