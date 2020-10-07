@@ -14,8 +14,4 @@
 
 ## ✉️ Contact Me
 
-- 📫 E-mail: gwakhyeonjun@gmail.com
-
-## Github Stats
-
-[![HyeonJun's github stats](https://github-readme-stats.vercel.app/api?username=znakwkd30&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 E-mail: gwakhyeonjun@gmail.co
