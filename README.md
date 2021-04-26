@@ -12,9 +12,8 @@
 ## 📚 Studying
 
 - TypeScript
-- Redux
-- Redux Observable
-- RxJS
+- Spring Boot
+- Cassandra
 
 ## ✉️ Contact Me
 
