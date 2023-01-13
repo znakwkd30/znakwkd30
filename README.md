@@ -18,3 +18,7 @@
 ## ✉️ Contact Me
 
 - 📫 E-mail: gwakhyeonjun@gmail.com
+
+## Military
+
+- 산업기능요원 (2023.01.05 ~ )
