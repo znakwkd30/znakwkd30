@@ -6,11 +6,10 @@
 ## 🛠 Skills
 
 - Backend (Node.js / Nest.js)
-
-## 📚 Studying
-
 - TypeScript
 - GraphQL
+- MySQL
+- AWS
 
 ## ✉️ Contact Me
 
